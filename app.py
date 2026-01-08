@@ -9,7 +9,7 @@ quotes = [
 
 @app.route('/')
 def hello():
-    return 'Hello World from deployment'
+    return 'Hello Thank you for joinin the class'
 
 @app.route('/home')
 def get_quote():
